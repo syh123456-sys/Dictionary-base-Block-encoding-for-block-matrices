@@ -1,0 +1,34 @@
+[
+  {
+    "case": "Sec.2 dictionary | wave Nx=4  Nxi=8 ",
+    "s": 20,
+    "s0": 4,
+    "alpha": 89.17327146100686,
+    "qubits": 14,
+    "layout": "tworeg",
+    "ctrl": 5,
+    "ctrl_max": 6,
+    "size": 117,
+    "depth": 113,
+    "err": 1.5572927047463986e-13,
+    "rel": 3.9337102115229017e-13,
+    "cols": 64,
+    "dim": 64
+  },
+  {
+    "case": "Sec.2 dictionary | wave Nx=8  Nxi=16",
+    "s": 44,
+    "s0": 4,
+    "alpha": 979.8161871779753,
+    "qubits": 17,
+    "layout": "tworeg",
+    "ctrl": 6,
+    "ctrl_max": 8,
+    "size": 282,
+    "depth": 277,
+    "err": 4.3106971397806703e-13,
+    "rel": 2.1383035582771464e-12,
+    "cols": 16,
+    "dim": 256
+  }
+]

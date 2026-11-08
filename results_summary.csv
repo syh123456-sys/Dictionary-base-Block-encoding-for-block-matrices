@@ -1,0 +1,9 @@
+script,algorithm,instance,dim,qubits,s,s0,alpha,ctrl_used,ctrl_full,layout,error,cols_checked
+code1_dictionary_wave.py,Sec.2 subnormalization,wave Nx=4 Nxi=8,64,14,20,4,8.917327e+01,5,6,tworeg,1.56e-13,64
+code1_dictionary_wave.py,Sec.2 subnormalization,wave Nx=8 Nxi=16,256,17,44,4,9.798162e+02,6,8,tworeg,4.31e-13,16
+code2_dictionary_tidal.py,Sec.2 subnormalization,tidal Nth=4 Nlam=16 Nxi=4,64,16,32,8,1.068559e-02,8,8,tworeg,1.21e-12,8
+code2_dictionary_tidal.py,Sec.2 subnormalization,tidal Nth=8 Nlam=16 Nxi=8 structural,256,20,64,16,5.241876e-02,9,10,tworeg,,
+code3_blockclass_wave.py,Sec.4 blocks,wave Nx=4 Nxi=8,64,11,20,8,1.783465e+02,3,6,inplace,9.20e-14,64
+code3_blockclass_wave.py,Sec.4 blocks,wave Nx=8 Nxi=16,256,13,44,8,1.959632e+03,3,8,inplace,1.52e-13,8
+code4_blockclass_tidal.py,Sec.4 blocks,tidal Nth=4 Nlam=16 Nxi=4,64,18,32,24,2.996259e-02,5,8,tworeg,1.12e-12,8
+code4_blockclass_tidal.py,Sec.4 blocks,tidal Nth=8 Nlam=16 Nxi=8 structural,256,22,64,40,1.230398e-01,6,10,tworeg,,

@@ -1,0 +1,34 @@
+[
+  {
+    "case": "Sec.4 blocks      | wave Nx=4  Nxi=8 ",
+    "s": 20,
+    "s0": 8,
+    "alpha": 178.34654292201375,
+    "qubits": 11,
+    "layout": "inplace",
+    "ctrl": 3,
+    "ctrl_max": 6,
+    "size": 153,
+    "depth": 146,
+    "err": 9.196767574044132e-14,
+    "rel": 4.646193796292331e-13,
+    "cols": 64,
+    "dim": 64
+  },
+  {
+    "case": "Sec.4 blocks      | wave Nx=8  Nxi=16",
+    "s": 44,
+    "s0": 8,
+    "alpha": 1959.6323743559506,
+    "qubits": 13,
+    "layout": "inplace",
+    "ctrl": 3,
+    "ctrl_max": 8,
+    "size": 337,
+    "depth": 330,
+    "err": 1.520586479161039e-13,
+    "rel": 1.5085613178677654e-12,
+    "cols": 8,
+    "dim": 256
+  }
+]

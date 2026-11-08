@@ -1,0 +1,18 @@
+[
+  {
+    "case": "Sec.4 blocks      | tidal Nth=4 Nxi=4",
+    "s": 32,
+    "s0": 24,
+    "alpha": 0.02996258940568529,
+    "qubits": 18,
+    "layout": "tworeg",
+    "ctrl": 5,
+    "ctrl_max": 8,
+    "size": 406,
+    "depth": 306,
+    "err": 1.116926688533976e-12,
+    "rel": 7.634384866453288e-12,
+    "cols": 8,
+    "dim": 64
+  }
+]
